@@ -2,3 +2,8 @@
 .bundle
 Gemfile.lock
 pkg/*
+*.idea
+*.[a-z]xt
+!*.txt
+*.[a-g]
+
